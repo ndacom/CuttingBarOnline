@@ -9,27 +9,27 @@
       "url": "_framework\/dotnet.js"
     },
     {
-      "hash": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw=",
-      "url": "_framework\/dotnet.runtime.8.0.0.14kkjimq5k.js"
+      "hash": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI=",
+      "url": "_framework\/dotnet.native.8.0.0.l8xfr0okrc.js"
     },
     {
-      "hash": "sha256-KeUMfSb+ytLK2w+otyc+1gF3r7xDzfowER8fQ4sQ8Xk=",
-      "url": "_framework\/blazor.boot.json"
-    },
-    {
-      "hash": "sha256-3mFkRjVvg28z+l2wY4IVMAHjgs6gu670FXgnupp5Q+U=",
-      "url": "_framework\/dotnet.native.8.0.0.om466rzvsc.js"
-    },
-    {
-      "hash": "sha256-GOwcSUJdLWMg5zjF7ZtiDPWO3tzDk6E0J1tXumoSMs4=",
+      "hash": "sha256-Vr6ZXKoP77zgabrMIxQ1GbOkrxfx5XGqHO0odLhUIMY=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
-      "hash": "sha256-qJPfq1wZ9tdZmkTflReQKdNSA\/mWux2UVq+b3WyKJQw=",
+      "hash": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw=",
+      "url": "_framework\/dotnet.runtime.8.0.0.44mbso0uu3.js"
+    },
+    {
+      "hash": "sha256-4jBWo3L0pVsh5opDOe87L1W+jt4i8C9YL2QhfTe6o58=",
+      "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-5llZS5UWo7LSQ4z31c0x\/VHpOwZ\/dIYiy5kQphlrHmA=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "hash": "sha256-RNAqR0ff+baVaIhI+uEcLo9eT+pxGnBEvkCzqD+3roM=",
+      "hash": "sha256-ivj7kxN8rrhTm1UV0H7dhsOewu6rhATFU2ZAG\/YKLvA=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
@@ -81,15 +81,15 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-ek2ITuu+LGdEHUGfiXbqOykKbZ3eR4tzUnkwYc7G5C8=",
+      "hash": "sha256-6RxsP4p\/\/ZCIHVvkbksJWkz7Liyd33huFNxDVDS7kPU=",
       "url": "_framework\/NDA.CuttingBar.WebClient.wasm"
     },
     {
-      "hash": "sha256-6VpwMe\/C5SN73s7rqFQONvPFYFWTIucLt5bAW96mAUc=",
+      "hash": "sha256-9IfuKX5O8IwQmrEHTmqdMkbPj+uRW+E4ex170cJIvng=",
       "url": "_framework\/NDA.Linear.wasm"
     },
     {
-      "hash": "sha256-MMsA0XPaiqHbm+LgkG\/DfBUxDTQ3uLLqWtGaI8NoUeo=",
+      "hash": "sha256-+XDXnScsbWvSdJ8REGNAxbTQdRa8y1uGEcvwz1P8AU4=",
       "url": "_framework\/NDA.MathNet.wasm"
     },
     {
@@ -149,7 +149,7 @@
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
-      "hash": "sha256-0nO0Rp6weeQYlqM5fvWTZa0wFE7v3cW5phjQ7qslsns=",
+      "hash": "sha256-XgbSOvsJsStVx0OTpXL4hFwFRzNuOQz4n9FkCN5SwIg=",
       "url": "_framework\/System.Private.Uri.wasm"
     },
     {
@@ -269,5 +269,5 @@
       "url": "nda.png"
     }
   ],
-  "version": "5SK\/VM\/Q"
+  "version": "yxIYx42a"
 };
