@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "NDA.CuttingBar.WebClient",
   "resources": {
-    "hash": "sha256-ihINP2Rg28y8XKp2RfpJmzH0BZX+mmnkjEVF7ZKu2oM=",
+    "hash": "sha256-EETWd4qE1hYWdcWvIQHrYT1ciuKmjp/zl+ngVNgynoQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.l8xfr0okrc.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -26,7 +26,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-lXwhdv0Is9FMH/j0+WH3zoNWAGLbVaONtGucJ/4URQ0=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-CQVLCKiSxLN5ghyJZG3mhnMGRROdqrbNUjtAXB0nWb8=",
-      "NDA.CuttingBar.WebClient.wasm": "sha256-6RxsP4p//ZCIHVvkbksJWkz7Liyd33huFNxDVDS7kPU=",
+      "NDA.CuttingBar.WebClient.wasm": "sha256-mNWgsOr/+h4pwj8f2l6sTT1v+v0vLdcaLYa2GcU0aUQ=",
       "NDA.Linear.wasm": "sha256-9IfuKX5O8IwQmrEHTmqdMkbPj+uRW+E4ex170cJIvng=",
       "NDA.MathNet.wasm": "sha256-+XDXnScsbWvSdJ8REGNAxbTQdRa8y1uGEcvwz1P8AU4=",
       "System.Collections.Concurrent.wasm": "sha256-P1TSHvnYQZDO3arLGDNBqw6H4BcrvIMHMC3Xi7/JK6k=",
